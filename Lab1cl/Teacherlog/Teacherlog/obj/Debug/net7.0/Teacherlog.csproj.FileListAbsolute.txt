@@ -1,0 +1,9 @@
+C:\Users\romay\OneDrive\Рабочий стол\Lab1cl\Teacherlog\Teacherlog\obj\Debug\net7.0\Teacherlog.csproj.AssemblyReference.cache
+C:\Users\romay\OneDrive\Рабочий стол\Lab1cl\Teacherlog\Teacherlog\obj\Debug\net7.0\Teacherlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romay\OneDrive\Рабочий стол\Lab1cl\Teacherlog\Teacherlog\obj\Debug\net7.0\Teacherlog.AssemblyInfoInputs.cache
+C:\Users\romay\OneDrive\Рабочий стол\Lab1cl\Teacherlog\Teacherlog\obj\Debug\net7.0\Teacherlog.AssemblyInfo.cs
+C:\Users\romay\OneDrive\Рабочий стол\Lab1cl\Teacherlog\Teacherlog\obj\Debug\net7.0\Teacherlog.csproj.CoreCompileInputs.cache
+C:\Users\romay\OneDrive\Рабочий стол\Lab1cl\Teacherlog\Teacherlog\obj\Debug\net7.0\Teacherlog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\romay\OneDrive\Рабочий стол\Lab1cl\Teacherlog\Teacherlog\obj\Debug\net7.0\Teacherlog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\romay\OneDrive\Рабочий стол\Lab1cl\Teacherlog\Teacherlog\obj\Debug\net7.0\Teacherlog.RazorAssemblyInfo.cache
+C:\Users\romay\OneDrive\Рабочий стол\Lab1cl\Teacherlog\Teacherlog\obj\Debug\net7.0\Teacherlog.RazorAssemblyInfo.cs
